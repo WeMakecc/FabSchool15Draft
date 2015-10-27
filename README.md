@@ -1,9 +1,8 @@
-#FabScool
-Istruzioni, materiali, informazioni e link sono disponibili alla pagina [https://github.com/fabschool/fabschool15]()
+#FabSchool
+Istruzioni, materiali, informazioni e link sono disponibili a questa pagina [https://github.com/fabschool/fabschool15]()
 
 ##Challenge
 Il 28 ottobre sarà pubblicato il tema/problema da affrontare, le risorse disponibili e le tecnologie da utilizzare, tra cui scegliere. I progetti dovranno dare una risposta al progetto/problema lanciato attraverso strumenti diversi (digital fabrication or smart innovation).
-
 
 
 ##Timeline
